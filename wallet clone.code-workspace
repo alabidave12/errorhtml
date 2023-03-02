@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "wallet clone",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
